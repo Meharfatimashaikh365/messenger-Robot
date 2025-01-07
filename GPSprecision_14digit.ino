@@ -5,8 +5,8 @@ TinyGPSPlus gps;
 int serialNumber = 0; // Serial number counter
 
 // Room coordinates and deviation
-double RC1_lat = 24.934001847023765;
-double RC1_long = 67.11231171254454;
+double RC1_lat = ;
+double RC1_long = ;
 double RC1_deviation = 0.0002988221736035993;
 
 void displayLocationOnSerial() {
